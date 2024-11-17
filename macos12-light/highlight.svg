@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="50">
+    <g id="Layer_1">
+        <title>Layer 1</title>
+        <!-- 外层边框 -->
+        <rect id="svg_1" width="39" height="50" x="0.5" y="0.5" fill="#015ad8" stroke="#002c5d" stroke-width="0.5" rx="7"/>
+        <!-- 内层边框 -->
+        <rect width="37" height="48" x="1" y="1" fill="#015ad8" stroke="#0178e3" stroke-width="0.5" rx="6.5"/>
+    </g>
+</svg>
